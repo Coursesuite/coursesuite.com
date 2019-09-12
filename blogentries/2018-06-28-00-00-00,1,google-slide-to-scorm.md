@@ -6,7 +6,7 @@ Collaborating on a course and publishing it as SCORM just got quicker! Our Cours
 
 There are so many uses for the Course Assembler. Word, PDF, PowerPoint, YouTube, Vimeo, SoundCloud, Slideshare, Moodle Book Activity IMS and many, many other formats can be imported and converted. 
 
-The video below is just one example of the Course Assembler in action. In this video we'll show how to convert some Google Slides, create a navigation structure, add some videos and a quiz and then publish it to SCORM - in less than ten minutes. Trial it for free today at [www.coursesuite.ninja](https://www.coursesuite.ninja/home/docninja)
+The video below is just one example of the Course Assembler in action. In this video we'll show how to convert some Google Slides, create a navigation structure, add some videos and a quiz and then publish it to SCORM - in less than ten minutes. Trial it for free today at [www.Coursesuite.ninja](https://www.Coursesuite.ninja/home/docninja)
 
 <div class="video-aspect-ratio uk-box-shadow-xlarge">
 <iframe width="560" height="315" src="https://www.screencast.com/users/Julie3009/folders/Camtasia Studio/media/81663978-f287-459d-8024-cd8aaf897c6f/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ And this video below gives an example of how to upload to a Learning Management 
 <iframe width="560" height="315" src="https://www.screencast.com/users/Julie3009/folders/Camtasia Studio/media/836b0d85-47f1-4d85-a0b4-1553724bb8b6/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div>
 
-Also see [Doc Ninja](https://www.coursesuite.ninja/home/docninja)
+Also see [Doc Ninja](https://www.Coursesuite.ninja/home/docninja)
 
 ====
 

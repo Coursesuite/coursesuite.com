@@ -2,28 +2,28 @@
 <html lang="en">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title><?php echo isset($page_title) ? $page_title.' | ' : ''; ?>Elearning software tools to build interactive SCORM courses | CourseSuite</title>
+    <title><?php echo isset($page_title) ? $page_title.' | ' : ''; ?>Elearning software tools to build interactive SCORM courses | Coursesuite</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="JNinja Suite by CourseSuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
-    <meta name="keywords" content="elearning software, online learning software, online e-learning software, scorm html5, scorm wrapper, CourseSuite, Course Suite">
+    <meta name="description" content="JNinja Suite by Coursesuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
+    <meta name="keywords" content="elearning software, online learning software, online e-learning software, scorm html5, scorm wrapper, Coursesuite, Course Suite">
     <meta name="author" content="Avide eLearning">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://fonts.coursesuite.ninja/coursesuite-card-meta.jpg">
-    <meta name="twitter:description" content="JNinja Suite by CourseSuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
-    <meta name="twitter:title" content="Elearning software tools to build interactive SCORM courses | CourseSuite">
+    <meta name="twitter:image" content="https://fonts.Coursesuite.ninja/Coursesuite-card-meta.jpg">
+    <meta name="twitter:description" content="JNinja Suite by Coursesuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
+    <meta name="twitter:title" content="Elearning software tools to build interactive SCORM courses | Coursesuite">
 
     <meta property="og:locale" content="en_AU">
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Elearning software tools to build interactive SCORM courses | CourseSuite">
-    <meta property="og:url" content="https://coursesuite.ninja.test/">
-    <meta property="og:title" content="Elearning software tools to build interactive SCORM courses | CourseSuite">
-    <meta property="og:description" content="JNinja Suite by CourseSuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
-    <meta property="og:image" content="https://fonts.coursesuite.ninja/coursesuite-card-meta.jpg">
+    <meta property="og:site_name" content="Elearning software tools to build interactive SCORM courses | Coursesuite">
+    <meta property="og:url" content="https://Coursesuite.ninja.test/">
+    <meta property="og:title" content="Elearning software tools to build interactive SCORM courses | Coursesuite">
+    <meta property="og:description" content="JNinja Suite by Coursesuite are a simple and powerful set of web-bases authoring apps that allow you to rapidly create interactive HTML5-based SCORM courses. Try free for 7 days.">
+    <meta property="og:image" content="https://fonts.Coursesuite.ninja/Coursesuite-card-meta.jpg">
 
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="apple-touch-icon-precomposed" href="img/coursesuite_logo_discourse_square.png">
+    <link rel="apple-touch-icon-precomposed" href="img/Coursesuite_logo_discourse_square.png">
     <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
     <link rel="dns-prefetch" href="https://d1f8f9xcsvx3ha.cloudfront.net">
     <link rel="dns-prefetch" href="https://platform-api.sharethis.com">
@@ -33,7 +33,7 @@
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <link rel='stylesheet' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.6/css/uikit.css' />
     <link rel='stylesheet' type='text/css' href='https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css' />
-	<link rel='stylesheet/less' type='text/css' href='/css/coursesuite.less' />
+	<link rel='stylesheet/less' type='text/css' href='/css/Coursesuite.less' />
 	<script>less = { env: 'development', dumpLineNumbers: 'comments', poll: 99999999 }</script>
 	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/less.js/3.8.0/less.min.js'></script>
 	<script>less.watch()</script>
@@ -41,7 +41,7 @@
         id="fsc-api"
         src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.8.0/fastspring-builder.min.js"
         type="text/javascript"
-        data-storefront="coursesuite.onfastspring.com/popup-coursesuite"
+        data-storefront="Coursesuite.onfastspring.com/popup-Coursesuite"
         data-debug="false"
         data-data-callback="fsCallbackFunction"
         data-popup-closed="fsPopupClosed">
@@ -52,7 +52,7 @@
 	  _paq.push(['trackPageView']);
 	  _paq.push(['enableLinkTracking']);
 	  (function() {
-	    var u="//stats.coursesuite.ninja/";
+	    var u="//stats.Coursesuite.ninja/";
 	    _paq.push(['setTrackerUrl', u+'piwik.php']);
 	    _paq.push(['setSiteId', '1']);
 	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -82,7 +82,7 @@
 	           </ul>
 	        </div></div>
 	        <a href="/" class="uk-navbar-item uk-logo">
-	          <img src="/img/coursesuite-glyph-logo.svg" width="150">
+	          <img src="/img/Coursesuite-glyph-logo.svg" width="150">
 	        </a>
 	        <div class="uk-navbar-center-right"><div>
 	           <ul class="uk-navbar-nav">

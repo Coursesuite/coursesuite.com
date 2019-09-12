@@ -1,10 +1,10 @@
 ## support
 
-If you have any questions the easiest way to get in touch is to raise a ticket through our [helpdesk](https://help.coursesuite.ninja) (no registration required).
+If you have any questions the easiest way to get in touch is to raise a ticket through our [helpdesk](https://help.Coursesuite.ninja) (no registration required).
 
 ## documentation
 
-Product documentation is available online through the apps, or through our [documentation site](https://guide.coursesuite.ninja/).
+Product documentation is available online through the apps, or through our [documentation site](https://guide.Coursesuite.ninja/).
 
 ## videos and tutorials
 

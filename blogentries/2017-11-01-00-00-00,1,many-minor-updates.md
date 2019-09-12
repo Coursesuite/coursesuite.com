@@ -2,14 +2,14 @@ title: Many minor updates
 
 ----
 
-We have simplified the way that users log in to CourseSuite, added support for launching apps through an API, and made a bunch of minor changes or bug fixes across our apps.
+We have simplified the way that users log in to Coursesuite, added support for launching apps through an API, and made a bunch of minor changes or bug fixes across our apps.
 
 ## Logging on
 You might have noticed that to sign in or register for the site, all you need to do is supply a valid email address. You are then assigned a password which you can use once to log into the site. We threw away the need to register and verify an email, then get a password and manage that password - the new approach is compatible with the old and means there's less for you to manage. We always need a valid email address, so that's rolled into the new system.
 
 ## API
 
-The CourseSuite API lets you externally authenticate and launch apps. API access will allow multiple concurrent users in the apps, give access to all apps and at their highest tier, and allow a degree of customisation to the appearance of apps. The API will be made available to the public soon!
+The Coursesuite API lets you externally authenticate and launch apps. API access will allow multiple concurrent users in the apps, give access to all apps and at their highest tier, and allow a degree of customisation to the appearance of apps. The API will be made available to the public soon!
 
 ====
 

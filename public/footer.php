@@ -6,13 +6,13 @@
 			<div>
 				<b>Coursesuite, Australia</b><br>
 				all rights reserved<br>
-				© CourseSuite 2012-<?php echo date("Y"); ?><br>
-				info@coursesuite.com.au
+				© Coursesuite 2012-<?php echo date("Y"); ?><br>
+				info@Coursesuite.com.au
 			</div>
 			<div>
 				<b>More information</b><br>
 				<a href="/blog/">Blog</a><br>
-				<a href="https://www.coursesuite.ninja/">Your account</a><br>
+				<a href="https://www.Coursesuite.ninja/">Your account</a><br>
 				<a href="/privacy/">Privacy</a>, <a href="/terms/">T&amp;C</a><br>
 				<a href="https://www.avide.com.au">Avide elearning</a>
 			</div>

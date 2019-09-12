@@ -1,4 +1,4 @@
-## what is coursesuite
+## what is Coursesuite
 
 Coursesuite is a collection of simple web-based tools that let you make SCORM courses. We found that the existing tools for content creation were feature-bloated and expensive and slow - and sought to remedy that. We try to focus our tools on the common problems in elearning - asking *what is the underlying purpose of the content* and *how can we make this easier*. We want content development to be *affordable*.
 
@@ -28,7 +28,7 @@ We're a small team based in northern NSW, Australia. Our staff have been working
 		        <p>Content editor, boss, doiley collector</p>
 		    </div>
 		    <div class="uk-card-footer">
-		        <a href="#linkedin" class="uk-button uk-button-text">julie@coursesuite.com</a>
+		        <a href="#linkedin" class="uk-button uk-button-text">julie@Coursesuite.com</a>
 		    </div>
 		</div>
 	</div>
@@ -49,7 +49,7 @@ We're a small team based in northern NSW, Australia. Our staff have been working
 		        <p>Tim likes walks in the park (with his dog) and meta jokes.</p>
 		    </div>
 		    <div class="uk-card-footer">
-		        <a href="#linkedin" class="uk-button uk-button-text">tim@coursesuite.com</a>
+		        <a href="#linkedin" class="uk-button uk-button-text">tim@Coursesuite.com</a>
 		    </div>
 		</div>
 	</div>
@@ -70,7 +70,7 @@ We're a small team based in northern NSW, Australia. Our staff have been working
 		        <p>Lorem ipsum</p>
 		    </div>
 		    <div class="uk-card-footer">
-		        <a href="#linkedin" class="uk-button uk-button-text">martin@coursesuite.com</a>
+		        <a href="#linkedin" class="uk-button uk-button-text">martin@Coursesuite.com</a>
 		    </div>
 		</div>
 	</div>
@@ -91,7 +91,7 @@ We're a small team based in northern NSW, Australia. Our staff have been working
 		        <p>tretre tre tertter r</p>
 		    </div>
 		    <div class="uk-card-footer">
-		        <a href="#linkedin" class="uk-button uk-button-text">ben@coursesuite.com</a>
+		        <a href="#linkedin" class="uk-button uk-button-text">ben@Coursesuite.com</a>
 		    </div>
 		</div>
 	</div>

@@ -2,10 +2,10 @@ title: Saving time and money on course development
 
 ----
 
-Each time we release new apps more and more people are starting to spread the word. We can save you time and money and we think we'll get you telling your friends and colleagues how easy CourseSuite's Ninja Suite apps are to use. These simple and powerful apps provide course developers the ability to concentrate on developing their own specific content in the tools that they know best. Choose the best app to suit the purpose, load your content up, then we convert it into HTML5 ready eLearning courses ready to upload to your eLearning portal.
+Each time we release new apps more and more people are starting to spread the word. We can save you time and money and we think we'll get you telling your friends and colleagues how easy Coursesuite's Ninja Suite apps are to use. These simple and powerful apps provide course developers the ability to concentrate on developing their own specific content in the tools that they know best. Choose the best app to suit the purpose, load your content up, then we convert it into HTML5 ready eLearning courses ready to upload to your eLearning portal.
 
 We have multiple apps designed for specific eLearning requirements. This saves you time and money. 
-<a href="https://elearningindustry.com/?s=coursesuite" target="_blank"> 
+<a href="https://elearningindustry.com/?s=Coursesuite" target="_blank"> 
 	<img src="https://i.imgur.com/GPTg7kn.jpg" style="max-width:80%">
 </a>
 
@@ -23,4 +23,4 @@ It's easy:
 
 The Ninja Suite of apps are fast and easy to use, perform powerful HTML5 conversions quickly and are laid out in a easy to use cloud based interface, all allowing you to save money and save you time.
 
-Make sure you see our[Doc Ninja](https://www.coursesuite.ninja/home/docninja) 
+Make sure you see our[Doc Ninja](https://www.Coursesuite.ninja/home/docninja) 
