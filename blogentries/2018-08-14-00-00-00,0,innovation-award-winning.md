@@ -16,7 +16,7 @@ title: Innovative Award Winners
                 </div>
         </div>
         <div class="uk-width-auto@m" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
-            <img class="uk-align-right" src="https://www.Coursesuite.ninja/img/d417a7d7cc1ac2f4e8257b685793fe95.jpg" alt="e-learning development company">
+            <img class="uk-align-right" src="https://www.coursesuite.ninja/img/d417a7d7cc1ac2f4e8257b685793fe95.jpg" alt="e-learning development company">
         </div>
 </div>
 

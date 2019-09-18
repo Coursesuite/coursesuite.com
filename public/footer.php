@@ -4,17 +4,15 @@
 	<div class='uk-container uk-padding-medium'>
 		<div class="uk-child-width-1-4@m uk-grid-small uk-light" uk-grid>
 			<div>
-				<b>Coursesuite, Australia</b><br>
+				<b>Coursesuite Ltd, Australia</b><br>
 				all rights reserved<br>
-				© Coursesuite 2012-<?php echo date("Y"); ?><br>
-				info@Coursesuite.com.au
+				&copy; Coursesuite 2012-<?php echo date("Y"); ?><br>
+				hello&#64;coursesuite.com
 			</div>
 			<div>
 				<b>More information</b><br>
-				<a href="/blog/">Blog</a><br>
-				<a href="https://www.Coursesuite.ninja/">Your account</a><br>
+				<a href="https://www.coursesuite.ninja/">Your account</a><br>
 				<a href="/privacy/">Privacy</a>, <a href="/terms/">T&amp;C</a><br>
-				<a href="https://www.avide.com.au">Avide elearning</a>
 			</div>
 			<div>
 			</div>

@@ -22,7 +22,9 @@ class BlogController {
 			"long" => ""
 		];
 		$data = file_get_contents($filename);
-		$ar = preg_split('/^([=-])([ ]*\1){2,}[ ]*$/m', $data);
+		$ar = explode("----", str_replace("====","----", $data));
+		// $ar = preg_split('/^([=-])([ ]*\1){2,}[ ]*$/m', $data); // not working
+
 		foreach (explode(PHP_EOL, $ar[0]) as $line) {
 			if (empty($line)) continue;
 			if (strpos($line,"title:")!==false) {

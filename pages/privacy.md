@@ -12,18 +12,19 @@
 
 ## The long version
 
-This Privacy Policy governs the manner in which Coursesuite collects, uses, maintains and discloses information collected from users (each, a "User") of the Coursesuite.com & Coursesuite.ninja website ("Site(s)"). This privacy policy applies to the Sites and all products and services offered by Avide Pty Ltd.
+This Privacy Policy governs the manner in which Coursesuite collects, uses, maintains and discloses information collected from users (each, a "User") of the coursesuite.com & coursesuite.ninja website ("Site(s)"). This privacy policy applies to the Sites and all products and services offered by our brands and services, listed below.
  
 Transactions are managed and handled by: [Fastspring](https://fastspring.com/ "Fastspring") and are covered by their own Terms of Use.
 
 ###Definitions
-1. We are: Avide eLearning Pty Limited (ABN 88143704296) 244 Harbour Drive, Coffs Harbour 2450, Australia. 
-2. When we say **"We”**,**”‘Us”**,** “Avide eLearning”** or **“Coursesuite”** it’s because that’s who we are and we own and run the Sites.
-3. When we say **"You”** or **“Your” **or** ”Users”** we mean you are: a visitor to Our Website / our customer
-4. When we say **"subscriber” **or **“Subscriber”** we mean you as a paid customer
-5. If we say **"policy”** we’re talking about this privacy policy. If we say ‘user terms’ we’re talking about the rules for using each of the Sites. 
-6. **"services"** means any of the services we offer for sale or for free on our Website and include generally available updates and support services so far as specified for each service. 
-7. ** “Personal Information”** means any information that identifies or can be used to identify you or a Subscriber, directly or indirectly
+1. Coursesuite and its brands are privately held IP copyright &copy; 2012-2019 Tim St.Clair, ABN: 72182107810, located at 244 Harbour Drive, Coffs Harbour 2450, Australia.
+1. Coursesuite owned and operated brands are Course Assembler (courseassembler.com), Course Alchemy (course-alchemy.com), To Scorm (e.g. video.to-scorm.com), Quizzzard (quizzzard.com), Coursesuite Ninja (coursesuite.ninja), Build My Effing Course (build-my-effing-course.com)
+1. When we say **"We”**,**”‘Us”**, or **“Coursesuite”** it’s because that’s who we are and we own and run the Sites.
+1. When we say **"You”** or **“Your” **or** ”Users”** we mean you are: a visitor to Our Website / our customer
+1. When we say **"subscriber” **or **“Subscriber”** we mean you as a paid customer
+1. If we say **"policy”** we’re talking about this privacy policy. If we say ‘user terms’ we’re talking about the rules for using each of the Sites. 
+1. **"services"** means any of the services we offer for sale or for free on our Website and include generally available updates and support services so far as specified for each service. 
+1. ** “Personal Information”** means any information that identifies or can be used to identify you or a Subscriber, directly or indirectly
 
 ###Terms
 By accessing these websites at coursesuite.ninja or coursesuite.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
@@ -59,25 +60,23 @@ Coursesuite may collect and use Users personal information for the following pur
 
 To fulfil a contract, or take steps linked to a contract: in particular, in facilitating and processing transactions that take place on the Site’s, like where you purchase a subscription, a product or service or from our Site’s.
 
-Where this is necessary for purposes which are in our legitimate interests. 
-* These interests include:
- * operating the Sites;
- * providing you with services described on the Sites;
- * to improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
- * to personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
- * to process payments: We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
- * verifying your identity when you sign in to any of our Sites;
- * responding to support tickets, and helping facilitate the resolution of any disputes;
- * updating you with operational news and information about our Sites and services e.g. to notify you about changes to our Sites, website disruptions or security updates;
- * carrying out technical analysis to determine how to improve the Sites and services we provide;
- * monitoring activity on the Sites, e.g. to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Sites;
- * managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Sites or asking for your feedback or whether you want to participate in a survey;
- * managing our legal and operational affairs (including, managing risks relating to content and fraud matters);
- * providing general administrative and performance functions and activities; and
- * processing your job application to Avide eLearning.
+Where this is necessary for purposes which are in our legitimate interests. These interests include:
+* operating the Sites;
+* providing you with services described on the Sites;
+* to improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+* to personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+* to process payments: We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+* verifying your identity when you sign in to any of our Sites;
+* responding to support tickets, and helping facilitate the resolution of any disputes;
+* updating you with operational news and information about our Sites and services e.g. to notify you about changes to our Sites, website disruptions or security updates;
+* carrying out technical analysis to determine how to improve the Sites and services we provide;
+* monitoring activity on the Sites, e.g. to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Sites;
+* managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Sites or asking for your feedback or whether you want to participate in a survey;
+* managing our legal and operational affairs (including, managing risks relating to content and fraud matters);
+* providing general administrative and performance functions and activities; and
 * Where you give us consent:
-  * providing you with marketing information about products and services which we feel may interest you; and
-  * customising our services and websites, like advertising that appear on the Site – where this involves the use of cookies or similar technologies – in order to provide a more personalised experience.
+* providing you with marketing information about products and services which we feel may interest you; and
+* customising our services and websites, like advertising that appear on the Site – where this involves the use of cookies or similar technologies – in order to provide a more personalised experience.
 * For purposes which are required by law.
 * For the purpose of responding to requests by government, a court of law, or law enforcement authorities conducting an investigation.
 

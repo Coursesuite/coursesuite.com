@@ -23,4 +23,4 @@ It's easy:
 
 The Ninja Suite of apps are fast and easy to use, perform powerful HTML5 conversions quickly and are laid out in a easy to use cloud based interface, all allowing you to save money and save you time.
 
-Make sure you see our[Doc Ninja](https://www.Coursesuite.ninja/home/docninja) 
+Make sure you see our[Doc Ninja](https://www.coursesuite.ninja/home/docninja) 

@@ -2,7 +2,7 @@
 
 These terms and conditions regulate the business relationship between you and us. By using Our Website(s), Our Services, Connectors or Our Platform in any way, or by buying from us, you agree to be bound by them.
 
-We are: Avide eLearning Ltd, ABN 88143704296. Coursesuite, the Coursesuite glyph are Trademarks of Avide eLearning.
+Coursesuite and its brands and logos are privately held IP copyright &copy; 2012-2019 Tim St.Clair, ABN: 72182107810, located at 244 Harbour Drive, Coffs Harbour 2450, Australia.
 
 You are: a visitor to Our Website / our customer
 
@@ -69,7 +69,7 @@ Transactions are managed and handled by: https://fastspring.com/ and are covered
         *   when and how you discovered the failure;
         *   the result of the failure;
         *   your suggestion as to action we should take to resolve the situation and restore your faith in us.
-    2.  To do this, it is essential that you contact us by email at support@Coursesuite.com.au and provide as much details about the issue as possible.
+    2.  To do this, it is essential that you contact us by email at support@coursesuite.com.au and provide as much details about the issue as possible.
 
 7.  #### Disclaimers
 

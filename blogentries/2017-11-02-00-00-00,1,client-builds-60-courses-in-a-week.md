@@ -16,4 +16,4 @@ They did have to put their heads down and work hard, but they achieved their goa
 
 Each course is now fully HTML5 SCORM compliant and, as such, the client will never have this migration issue again as the courses will now work on any SCORM compliant LMS.  
 
-See [Course Ninja](https://www.Coursesuite.ninja/home/coursebuildr)
+See [Course Ninja](https://www.coursesuite.ninja/home/coursebuildr)

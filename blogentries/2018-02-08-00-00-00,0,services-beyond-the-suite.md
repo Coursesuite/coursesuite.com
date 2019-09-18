@@ -20,4 +20,4 @@ Our experienced staff can help you in any regards when if comes to eLearning req
 With each project we manage, we provide the client with full understanding of the project from start to finish and provide post-publishing support.
 
 See how we can save you time and money: [Saving money post](
-https://www.Coursesuite.ninja/blog/38)
+https://www.coursesuite.ninja/blog/38)
