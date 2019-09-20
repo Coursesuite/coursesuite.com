@@ -20,14 +20,14 @@ body {
   color: #0096cc;
 }
 .cs-text-bg p {
-  font-size: 20px;
+  font-size: 16px;
   padding: 20px;
   background-color: rgba(80, 92, 118, 0.5);
   color: white;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
 }
 .cs-text-bg p.cs-text-big {
-  font-size: 30px;
+  font-size: 24px;
 }
 .cs-text-bg p.cs-intro-bg-light {
   background-color: rgba(52, 70, 48, 0.5);
@@ -69,4 +69,48 @@ dd {
 }
 dd + dd {
   margin-bottom:  25px;
+}
+
+.uk-navbar .uk-logo img {
+    max-width: 120px;
+}
+.uk-navbar .uk-logo {
+  margin-bottom: 10px;
+}
+.uk-navbar .uk-navbar-center {
+  display: flex;
+  flex-direction: column;
+}
+.uk-navbar .uk-navbar-center>a {
+  order: -1;
+}
+.uk-navbar-center-left, .uk-navbar-center-right {
+  position:  relative;
+    left:  unset; right:  unset;
+}
+
+@media screen and (min-width:768px) {
+.uk-navbar .uk-logo {
+  margin-bottom: auto;
+}
+  .uk-navbar .uk-logo img {
+      max-width: unset;
+  }
+  .uk-navbar .uk-navbar-center {
+    flex-direction: row;
+  }
+  .uk-navbar .uk-navbar-center>a {
+    order: unset;
+  }
+  .uk-navbar-center-left, .uk-navbar-center-right {
+    position: absolute;
+  }
+  .uk-navbar-center-left { right: 100%; }
+  .uk-navbar-center-right { left: 100%; }
+  .cs-text-bg p {
+    font-size: 20px;
+  }
+  .cs-text-bg p.cs-text-big {
+    font-size: 30px;
+  }
 }
